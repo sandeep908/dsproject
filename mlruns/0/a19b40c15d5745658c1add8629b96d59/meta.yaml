@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/pyproject/DS_Project/mlruns/0/a19b40c15d5745658c1add8629b96d59/artifacts
+end_time: 1755709849293
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a19b40c15d5745658c1add8629b96d59
+run_name: crawling-shoat-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755709835704
+status: 3
+tags: []
+user_id: root

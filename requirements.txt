@@ -7,4 +7,10 @@ scikit-learn
 seaborn
 matplotlib
 pickle5
+catboost
+xgboost
+Flask
+dill
+mlflow==2.2.2
+
 #  -e .

@@ -1,0 +1,10 @@
+artifact_location: file:///D:/pyproject/DS_Project/mlruns/0/models/m-d2ddf847054b4de3963a6e543473ee6a/artifacts
+creation_timestamp: 1755709835953
+experiment_id: '0'
+last_updated_timestamp: 1755709849265
+model_id: m-d2ddf847054b4de3963a6e543473ee6a
+model_type: null
+name: model
+source_run_id: a19b40c15d5745658c1add8629b96d59
+status: 2
+status_message: null
